@@ -38,7 +38,7 @@ The following dependencies are required to run the project:
 
 2. Train the model:
 
-- Run the `train.py` script to train the Random Forest Regressor model.
+- Run the `.Ipynb` script to train the Random Forest Regressor model.
 - Specify the input dataset and any required parameters.
 
 3. Make predictions:
